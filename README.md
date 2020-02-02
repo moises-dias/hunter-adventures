@@ -41,7 +41,7 @@ Hunter Adventures é um jogo de plataforma (side scrolling), criado utilizando a
 * Durante uma arrancada você fica imune a ataques.
 
 ### Instruções para execução ou compilação do jogo:
-#### Para jogar basta executar o arquivo HUNTER ADVENTURES.exe
+#### Para jogar basta executar o arquivo HUNTER ADVENTURES.exe na pasta "/executavel"
 
 #### Para compilar o jogo siga as instruções:
 1. Baixe e instale a IDE [Code::Blocks 16.01](http://www.codeblocks.org/downloads/5) e a pasta [Allegro](https://www.dropbox.com/sh/bslxa5zsztczt17/AACu7tK-yixpoitT9NGg-xXZa?dl=0)
