@@ -9,7 +9,8 @@
 Hunter Adventures é um jogo de plataforma (side scrolling), criado utilizando a linguagem C++ e a biblioteca gráfica Allegro. O jogo foi feito em 2017, para a disciplina de Técnicas de programação do curso de engenharia de computação da UTFPR, onde foi ensinado programação orientada a objetos e proposto um projeto relacionado ao tema para os alunos. Foram utilizadas trilhas sonoras dos jogos Final fantasy, Castlevania e Dark Souls, toda a programação foi feita pelos dois integrantes do grupo e todos os desenhos foram criados pelo Ian Douglas durante o desenvolvimento do jogo.
 
 #### Clique na imagem para visualizar um vídeo de alguns minutos de jogo:
-[![hunter](https://github.com/moisesdias12/new-git-course/blob/master/hunter-img2.png)](https://drive.google.com/open?id=1EvnyNEBmDiqoTFopwZc9Z9tH9Z-NEVHh "gameplay hunter adventures")
+
+[![hunter](https://img.youtube.com/vi/Pikd5Le-Xis/0.jpg)](https://www.youtube.com/watch?v=Pikd5Le-Xis "gameplay hunter adventures")
 
 ### O jogo possui as seguintes funcionalidades:
 * Ranking de pontos
